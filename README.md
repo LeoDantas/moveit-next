@@ -24,6 +24,6 @@ Runs [`next start`](/docs/api-reference/cli.md#production) which starts a Next.j
 
 ## Learn More
 
-You can learn more in the [Create React App documentation](https://github.com/vercel/next.js/edit/canary/docs/getting-started.md).
+You can learn more in the [Create Next App documentation](https://github.com/vercel/next.js/edit/canary/docs/getting-started.md).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
