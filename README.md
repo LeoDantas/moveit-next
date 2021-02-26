@@ -24,6 +24,6 @@ Runs [`next start`](/docs/api-reference/cli.md#production) which starts a Next.j
 
 ## Learn More
 
-You can learn more in the [Create Next App documentation](https://nextjs.org/learn/basics/create-nextjs-app).
+You can learn more in the [Create Next App documentation](https://nextjs.org/docs).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
